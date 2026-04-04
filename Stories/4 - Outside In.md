@@ -1,0 +1,1 @@
+- [I] Initial idea: A barrier break that leads to a realization.

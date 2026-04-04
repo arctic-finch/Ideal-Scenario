@@ -1,0 +1,1 @@
+- [I] Initial idea: A parallel story of band dynamics and relationships. (Careful doing this IRL)
