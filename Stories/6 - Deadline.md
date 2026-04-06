@@ -1,1 +1,2 @@
-- [I] Initial idea: Multitasking, computer, lap, yadda yadda!
+[[Stories]] [[Japan]]
+- [I] Multitasking, computer, lap, yadda yadda!

@@ -1,1 +1,2 @@
-- [I] Initial idea: Mall, clothing isle, trying clothes, you get it!
+[[Stories]] [[Norway]]
+- [I] Mall, clothing isle, trying clothes, you get it!

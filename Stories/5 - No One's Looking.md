@@ -1,1 +1,2 @@
-- [I] Initial idea: In a park at night, watching stars, the whole shebang.
+[[Stories]] [[Canada]]
+- [I] In a park at night, watching stars, the whole shebang.

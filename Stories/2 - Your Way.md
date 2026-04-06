@@ -1,1 +1,2 @@
-- [I] Initial idea: My personal classic, rewritten. Girl with a crush really wants to get with this person but in their own way of doing things (no spoilers!)
+[[Stories]] [[Aubrey Snelling]] [[Maya Miller]] [[Canada]]
+- [I] My personal classic, rewritten. Girl with a crush really wants to get with this person but in their own way of doing things (no spoilers!)

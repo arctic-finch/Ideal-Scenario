@@ -1,0 +1,3 @@
+[[Japan]]
+[[Characters]]
+[[Female]]
