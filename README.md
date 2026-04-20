@@ -19,6 +19,6 @@ Wow, you're an early bird huh?
 
 ## Some Info
 
-Obsidian isn't exactly my workflow as a pure text kinda girl but I'm giving it a shot with little experience, if I could optimize this in some way please do tell! 
+~Obsidian isn't exactly my workflow as a pure text kinda girl but I'm giving it a shot with little experience, if I could optimize this in some way please do tell!~ nvm fresh-editor is awesome!
 
 This project will (hopefully soon) also include a web viewer and other packaged formats for reading. 

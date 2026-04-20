@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "Terminal",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Pragmasevka",
+  "textFontFamily": "Pragmasevka"
 }

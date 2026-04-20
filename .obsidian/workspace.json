@@ -6,7 +6,6 @@
       {
         "id": "80cd8b9d1edf4cc8",
         "type": "tabs",
-        "dimension": 54.78947368421052,
         "children": [
           {
             "id": "2f833ec84094af23",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "13 - Flower Boy"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f1102556fa3e32ad",
-        "type": "tabs",
-        "dimension": 45.21052631578947,
-        "children": [
-          {
-            "id": "e51653581a31b87c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -203,9 +185,11 @@
   },
   "active": "2f833ec84094af23",
   "lastOpenFiles": [
+    "Stories/15 - Home-like.md",
+    "Stories/16 - A Dove Dressed in Rain.md",
+    "Characters/Kolby Auston.md",
     "Stories/13 - Flower Boy.md",
     "Characters/Hirano Kouta.md",
-    "Stories/15 - Home-like.md",
     "Stories/4 - Outside In.md",
     "Stories/3 - Pace.md",
     "Stories/2 - Your Way.md",
@@ -227,8 +211,6 @@
     "Characters/Yamada Saki.md",
     "Characters/Morimoto Aya.md",
     "Characters/Ishikawa Tomoko.md",
-    "Characters/Hisakawa Tsuru.md",
-    "Characters/Anniken Ottosen.md",
     "Tags",
     "Canon Countries"
   ]
